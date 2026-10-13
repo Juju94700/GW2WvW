@@ -5,6 +5,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261012-212337-hh3r",
+      "title": "Crippling Anquish",
+      "commanders": [
+        "Crippling Anquish"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-13T02:23:37.000Z",
+      "dateEnd": "2026-10-13T02:54:51.969Z",
+      "dateLabel": "10/12/2026, 9:23:37 PM - 10/12/2026, 9:54:51 PM",
+      "url": "https://Juju94700.github.io/GW2WvW/?report=20261012-212337-hh3r",
+      "summary": {
+        "borderlandsPct": 0.4666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261005-210216-uumk",
       "title": "Crippling Anquish",
       "commanders": [
